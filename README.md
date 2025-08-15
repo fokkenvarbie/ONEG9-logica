@@ -1,5 +1,5 @@
 <h1>Jogo do Número Secreto</h1>
-Um jogo de navegador onde você precisa adivinhar um número secreto em um campo de texto. <br>O jogo te dá dicas para ajudar a encontrar o número, indicando se seu palpite é maior ou menor que o número secreto.<br>
+Um jogo de navegador onde você precisa adivinhar um número secreto em um campo de texto. <br>O jogo te dá dicas para ajudar a encontrar o número, indicando se seu palpite é maior/menor que o correto.<br>
 <Br>
 
 - **Funcionalidades:**
@@ -7,4 +7,5 @@ Um jogo de navegador onde você precisa adivinhar um número secreto em um campo
   - Dicas interativas: O jogo informa se o número secreto é maior ou menor que o seu palpite.
   - Contagem de tentativas: Acompanhe quantas tentativas foram necessárias para acertar o número.
   - Reiniciar o jogo: Depois de acertar, um botão de reiniciar aparece para que você possa jogar novamente.
+
 
