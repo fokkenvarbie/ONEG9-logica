@@ -8,4 +8,5 @@ Um jogo de navegador onde você precisa adivinhar um número secreto em um campo
   - Contagem de tentativas: Acompanhe quantas tentativas foram necessárias para acertar o número.
   - Reiniciar o jogo: Depois de acertar, um botão de reiniciar aparece para que você possa jogar novamente.
 
-<h3>Encontre os arquivos para clonagem nas branches dedicadas aos módulos.</h3>
+Encontre os arquivos para clonagem nas branches dedicadas aos módulos.
+
